@@ -20,4 +20,4 @@
 
 10. Can't find a way forward. Contemplating or planning suicide.
 
-(c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following licence: (Creative Commons Attribution-ShareAlike) [https://creativecommons.org/licenses/by-sa/3.0/us/] 
+(c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following licence: (Creative Commons Attribution-ShareAlike)[https://creativecommons.org/licenses/by-sa/3.0/us/] 

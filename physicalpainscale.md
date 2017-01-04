@@ -20,4 +20,4 @@
 
 10. Yelling, shaking, thrashing, no control.
 
-(c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following licence: https://creativecommons.org/licenses/by-sa/3.0/us/ 
+(c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following licence: (Creative Commons Attribution-ShareAlike)[https://creativecommons.org/licenses/by-sa/3.0/us/]
