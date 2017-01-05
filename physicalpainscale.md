@@ -1,4 +1,4 @@
-# Rate your pain on a scale of 1 to 10
+# Physical Self-Awareness Pain Scale 
 
 1. If I think about it, I can find a twinge somewhere.
 

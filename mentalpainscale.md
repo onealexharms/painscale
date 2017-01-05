@@ -1,4 +1,4 @@
-# Rate your mental/emotional pain on a scale of 1 to 10
+# Mental and Emotional Self-Awareness Pain Scale
 
 1. When I stop and breathe and sense, I feel some sadness or anxiety.
 
