@@ -1,6 +1,8 @@
 # How do you rate your pain on a scale of 1 to 10?
 
-As a person with chronic illness, I get asked this question a lot. During a difficult period, I found I was wishing for a way to more reliably distinguish between a 5 and a 7. This is still subjective, mostly, but it's consistent, and now I don't have to guess.
+As a person with chronic illness, I get asked this question a lot. During a difficult period, I found I was wishing for a way to more reliably distinguish between, say, a 5 on Tuesday and a 7 on Thursday. 
+
+The two pain scales (below) are still subjective, mostly, but they're consistent, and now I don't have to guess.
 
 ## Physical Self-Awareness Pain Scale
 
@@ -16,7 +18,7 @@ The P-SAPS (cough) came from years of chronic pain, punctuated by a very few eve
 
 Sticking with the acronym pattern, this one gets to be the ME-SAPS, I suppose. 
 
-This one is also very personal. During a diffierent sort of difficult period, I was wishing I had a simlilar scale for mental and emotional pain. The ME-SAPS is based on the physical scale, and adapted from my own experinece (and that of a friend or two).
+This one is also very personal. During a different sort of difficult period, I was wishing I had a similar scale for mental and emotional pain. The ME-SAPS is based on the physical scale, and adapted from my own experience (and that of a friend or two).
 
 ## How you can use them
 
