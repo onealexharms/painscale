@@ -1,12 +1,52 @@
 # Mental and Emotional Self-Awareness Pain Scale
 
-1. When I stop and breathe and sense, I feel some sadness or anxiety. I'm able to attend to it, and tie it to what sorts of unmet-need sense I'm experiencing. I can see options open to me.
+## 1
+### Awareness
+When I stop and breathe and sense, I feel some sadness or anxiety. 
+### Insight
+I can name the feelings. I can tie them to some unmet-need sense I'm experiencing. 
+### Coping
+I feel fine; nothing to "cope with". 
+### Functioning
+I can do what I like.
+### Openness
+I can see options open to me.
 
-2. I'm aware of some sadness or anxiety, and I'm aware of the unmet-need sense. I'm able to work through it to see what needs-met would feel like. I can find options open to me, though it takes effort.
+## 2 
+### Awareness
+I'm aware of some sadness or anxiety.
+### Insight
+I can name the feelings. I can tie them to some unmet-need sense I'm experiencing.
+### Coping
+I can spend time noticing the need, appreciating the beauty it represents.
+### Functioning
+I can do what I like. I'm not easily annoyed.
+### Openness
+I'm able to find options I like. I don't feel constricted.
 
-3. Sadness or anxiety are troubling, but distraction easily makes the pain fade. When I do attend to it, it's hard to find the underlying longing (need, or treasure) that has my attention, or to recognize what needs-met would feel like. Options are hard to notice.
+## 3 
+### Awareness
+I'm aware of sadness or anxiety, and it's uncomfortable.
+### Insight
+If I choose to pay attention, I can name the feelings. It's a little work to begin to get insight into the unmet-need sense. It's harder to find the underlying longing, or to imagine what it would be like to have the treasure I'm longing for. 
+### Coping
+Almost any distraction easily makes the discomfort fade. If I think it'd be valuable, I can set the sadness or anxiety aside to look at later.
+### Functioning
+It takes a little work to do professional activities: attending meetings, conversing, empathizing, problem solving, coding. It might take work not to be grumpy with family.
+### Openness
+I'm choosing distraction -- gettin shit done. I'm generally open to doing the work to move toward level 2, if it occurs to me or someone asks.  
 
-4. I have to work to distract myself from sadness or anxiety. Working through them is difficult. Options seem few.
+## 4
+### Awareness
+I'm feeling distinctly sad or anxious. "Not okay."
+### Insight
+Paying attention to my experience is work. If I remember to, I might use a noticing exercise to get more insight.
+### Coping
+Distraction is less effective. Sometimes, I can set the sadness or anxiety aside to look at later.  
+### Functioning
+It's harder to do professional activities: attending meetings, conversing, empathizing, problem solving, coding. I may take breaks, try to avoid meetings. Or I may sit through them, hoping the distraction will help relieve discomfort. Similarly, with personal life, I may try to avoid getting together or I might hope the distraction makes it easier. 
+### Openness
+I'm likely not looking for options; telling myself I don't have choices. If I remember it's an option, I might choose to do the work to move toward level 3 or level 2. This takes time away from planned activities.
 
 5. Distracting myself doesn't make sadness or anxiety fade out entirely.  Can work (focus, empathize, problem solve), but with greatly reduced capacity. Extended time for working through the emotions might help, but options are not apparent.
 
