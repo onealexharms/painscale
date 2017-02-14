@@ -42,29 +42,84 @@ I'm feeling distinctly sad or anxious. "Not okay."
 ### Insight
 Paying attention to my experience is work. If I remember to, I might use a noticing exercise to get more insight.
 ### Coping
-Distraction is less effective. Sometimes, I can set the sadness or anxiety aside to look at later.  
+I'm breathing, practicing self-empathy. Still turning my attention to profession & daily life, but distraction is less effective. Sometimes, I can set the sadness or anxiety aside to look at later.  
 ### Functioning
-It's harder to do professional activities: attending meetings, conversing, empathizing, problem solving, coding. I may take breaks, try to avoid meetings. Or I may sit through them, hoping the distraction will help relieve discomfort. Similarly, with personal life, I may try to avoid getting together or I might hope the distraction makes it easier. 
+It's harder to do professional activities: attending meetings, conversing, empathizing, problem solving, coding. I may take breaks, try to avoid meetings. Or I may sit through them, hoping the distraction will help relieve discomfort.  Similarly, with personal life, I may try to avoid getting together or I might hope the distraction makes it easier. 
 ### Openness
-I'm likely not looking for options; telling myself I don't have choices. If I remember it's an option, I might choose to do the work to move toward level 3 or level 2. This takes time away from planned activities.
+I'm likely not looking for options; telling myself I don't have choices. If I remember, I might choose to do the work to move toward level 3 or level 2. (If there's a professional task ahead that's challenging and important, there's a good chance I can succeed at taking a half hour to work toward level 3 or 2 so I can do an okay job. I won't be at my best.)
 
 ## 5
-Distracting myself doesn't make sadness or anxiety fade out entirely.  Can work (focus, empathize, problem solve), but with greatly reduced capacity. Extended time for working through the emotions might help, but options are not apparent.
+### Awareness
+I'm feeling quite sad or anxious. I can feel it in my body. It's distracting, and probably clearly visible on my face & movements.
+### Insight
+I'm reactive. I don't have much awareness of my internal state, but I react strongly to minor disruptions. 
+### Coping
+Self-care here looks like "taking it easy" -- drawing, video games, reading, a warm bath. Distracting myself doesn't make sadness or anxiety fade out entirely. *Coping depends a lot on avoiding stress.* 
+### Functioning
+Things can seem normal. The differences is that I have an intolerance for tiny stresses (pen doesn't work, code does something unexpected, github acts weird, we're out of cheese, I dunno...) Strong feelings: tears, shaking, covering my ears. If I'm at work, at this point I leave quickly.
+### Openness
+Self-care here feels like staying in the moment. Creating an environment as close to no stress as possible. Sometimes I might try what we jokingly call an "emergency sit", which could move me to a 4 or 3, but my priority isn't on fixing. It's on wrapping up in a blanket and accepting me where I'm at right now. And lots of care from loved ones.
 
 ## 6
-Can't focus on work. Sadness or anxiety has my attention. Can do delicate conversation on topics unrelated to my emotional state, only with people who feel safe & comfortable. Recognizing my feelings and the underlying needs/treasures is real work. At this point, I don't like any of the options available to me.
+### Awareness
+Sadness or anxiety has my attention. 
+### Insight
+Identifying or naming feelings in any subtle way is difficult. They feel unconnected with life. Wanting safety & comfort. 
+### Coping
+Delicate conversation on topics unrelated to my emotional state, only with people who feel safe and comfortable. Video games, movies, light reading.
+### Functioning
+Nothing but self-care. 
+### Openness
+Recognizing my feelings and the underlying needs/treasures is real work. I don't like any of the options I can see. I feel stuck. Questioning: remind me again why I'm supposed to stay alive?
 
 ## 7
-Can do self-care activities, and not much else. Warm bath, walk. Can only be around people who are with me are focused on caring for me. I am trying to remember that I have options, but I don't really believe it. Reaching for awareness of my experience isn't working very well.
+### Awareness
+Just aware of hurting.
+### Insight
+Reaching for awareness of my experience isn't working very well.
+### Coping
+Warm bath, walk. Staying close to people who are focused on caring for me.
+### Functioning
+Not much attention to even self-care. Not getting food. Not looking for comfort.
+### Openness
+Trying to remember that there are always options, but I don't really believe it. Wishing I could go to sleep and not wake up, but not actively suicidal.
 
 ## 8
-Can't manage even light conversation, not responding well. Can't enjoy reading, movies, or games. Can do simple games for a while. Mostly just breathe or cry. Probably thinking some about suicide. I don't see options.
+### Awareness
+Just hurting. 
+### Insight
+Not aware, not reaching for awareness. Not responding well. 
+### Coping
+Can't enjoy movies or reading or real games. Might play mindless phone games some.
+### Functioning
+Mostly just breathe, cry some, breathe.
+### Openness
+I don't see options. Probably thinking more seriously of suicide.
 
 ## 9
 Basically just in bed, rocking back and forth. Or something roughly like that. Probably feeling like avoiding suicide is work. I've forgotten the idea of options.
+### Awareness
+Just hurting.
+### Insight
+No awareness of needs or treasures.
+### Coping
+Basically lying in bed, or rocking back and forth. Roughly.
+### Functioning
+Breathe, cry, breathe.
+### Openness
+I've forgotten the idea of possibility, of options. Avoiding suicide is work.
 
 ## 10
-Can't find a way forward. Contemplating or planning suicide.
+### Awareness
+Just hurting.
+### Insight
+No awareness of needs or treasures.
+### Coping
+No intentional coping.
+### Functioning
+Zombie.
+### Openness
+Can't find a way forward. Contemplating or planning suicide.  
 
-
-(c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following licence: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/) 
+The Mental and Emotional Self-Awareness Pain Scale is (c) Alex Harms 2017. 
+Free to use or adapt, with this notice included, under the following licence: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/) 
