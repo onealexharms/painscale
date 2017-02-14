@@ -48,16 +48,16 @@ It's harder to do professional activities: attending meetings, conversing, empat
 ### Openness
 I'm likely not looking for options; telling myself I don't have choices. If I remember it's an option, I might choose to do the work to move toward level 3 or level 2. This takes time away from planned activities.
 
-5. Distracting myself doesn't make sadness or anxiety fade out entirely.  Can work (focus, empathize, problem solve), but with greatly reduced capacity. Extended time for working through the emotions might help, but options are not apparent.
+'5. Distracting myself doesn't make sadness or anxiety fade out entirely.  Can work (focus, empathize, problem solve), but with greatly reduced capacity. Extended time for working through the emotions might help, but options are not apparent.
 
-6. Can't focus on work. Sadness or anxiety has my attention. Can do delicate conversation on topics unrelated to my emotional state, only with people who feel safe & comfortable. Recognizing my feelings and the underlying needs/treasures is real work. At this point, I don't like any of the options available to me.
+'6. Can't focus on work. Sadness or anxiety has my attention. Can do delicate conversation on topics unrelated to my emotional state, only with people who feel safe & comfortable. Recognizing my feelings and the underlying needs/treasures is real work. At this point, I don't like any of the options available to me.
 
-7. Can do self-care activities, and not much else. Warm bath, walk. Can only be around people who are with me are focused on caring for me. I am trying to remember that I have options, but I don't really believe it. Reaching for awareness of my experience isn't working very well.
+'7. Can do self-care activities, and not much else. Warm bath, walk. Can only be around people who are with me are focused on caring for me. I am trying to remember that I have options, but I don't really believe it. Reaching for awareness of my experience isn't working very well.
 
-8. Can't manage even light conversation, not responding well. Can't enjoy reading, movies, or games. Can do simple games for a while. Mostly just breathe or cry. Probably thinking some about suicide. I don't see options.
+'8. Can't manage even light conversation, not responding well. Can't enjoy reading, movies, or games. Can do simple games for a while. Mostly just breathe or cry. Probably thinking some about suicide. I don't see options.
 
-9. Basically just in bed, rocking back and forth. Or something roughly like that. Probably feeling like avoiding suicide is work. I've forgotten the idea of options.
+'9. Basically just in bed, rocking back and forth. Or something roughly like that. Probably feeling like avoiding suicide is work. I've forgotten the idea of options.
 
-10. Can't find a way forward. Contemplating or planning suicide.
+'10. Can't find a way forward. Contemplating or planning suicide.
 
 (c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following licence: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/) 
