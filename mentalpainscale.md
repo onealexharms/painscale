@@ -97,7 +97,6 @@ Mostly just breathe, cry some, breathe.
 I don't see options. Probably thinking more seriously of suicide.
 
 ## 9
-Basically just in bed, rocking back and forth. Or something roughly like that. Probably feeling like avoiding suicide is work. I've forgotten the idea of options.
 ### Awareness
 Just hurting.
 ### Insight
