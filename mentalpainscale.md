@@ -120,5 +120,5 @@ Zombie.
 ### Openness
 Can't find a way forward. Contemplating or planning suicide.  
 
-The Mental and Emotional Self-Awareness Pain Scale is (c) Alex Harms 2017. 
+The Mental and Emotional Self-Awareness Pain Scale v.1.1 is (c) Alex Harms 2017. 
 Free to use or adapt, with this notice included, under the following licence: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/) 
