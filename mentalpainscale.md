@@ -56,7 +56,7 @@ I'm reactive. I don't have much awareness of my internal state, but I react stro
 ### Coping
 Self-care here looks like "taking it easy" -- drawing, video games, reading, a warm bath. Distracting myself doesn't make sadness or anxiety fade out entirely. *Coping depends a lot on avoiding stress.* 
 ### Functioning
-Things can seem normal. The differences is that I have an intolerance for tiny stresses (pen doesn't work, code does something unexpected, github acts weird, we're out of cheese, I dunno...) Strong feelings: tears, shaking, covering my ears. If I'm at work, at this point I leave quickly.
+Things can seem normal. The differences is that I have an intolerance for tiny stresses (pen doesn't work, code does something unexpected, github acts weird, we're out of cheese, I dunno...) Strong feelings: tears, shaking, covering my ears. If work is solitary, I continue trying to accomplish things. If work means real engagement with people, at this point I leave quickly.
 ### Openness
 Self-care here feels like staying in the moment. Creating an environment as close to no stress as possible. Sometimes I might try what we jokingly call an "emergency sit", which could move me to a 4 or 3, but my priority isn't on fixing. It's on wrapping up in a blanket and accepting me where I'm at right now. And lots of care from loved ones.
 
