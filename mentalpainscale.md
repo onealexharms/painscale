@@ -1,4 +1,7 @@
-# Mental and Emotional Self-Awareness Pain Scale
+# Mental and Emotional Self-Awareness Pain Scale  
+v 1.2  |  (c)2017 Alex Harms  |  CC-Share Alike 3.0\*
+
+---
 
 ## 1
 ### Awareness
@@ -6,9 +9,9 @@ When I stop and breathe and sense, I feel some sadness or anxiety.
 ### Insight
 I can name the feelings. I can tie them to some unmet-need sense I'm experiencing. 
 ### Coping
-I feel fine; nothing to "cope with". 
+I don't feel a need for coping strategies.
 ### Functioning
-I can do what I like.
+Work, family, and personal activities are not affected.
 ### Openness
 I can see options open to me.
 
@@ -18,9 +21,9 @@ I'm aware of some sadness or anxiety.
 ### Insight
 I can name the feelings. I can tie them to some unmet-need sense I'm experiencing.
 ### Coping
-I can spend time noticing the need, appreciating the beauty it represents.
+Living with my emotions feels natural and easy.
 ### Functioning
-I can do what I like. I'm not easily annoyed.
+I can do what I like. I'm resilient, not easily stressed, accepting of change.
 ### Openness
 I'm able to find options I like. I don't feel constricted.
 
@@ -28,85 +31,88 @@ I'm able to find options I like. I don't feel constricted.
 ### Awareness
 I'm aware of sadness or anxiety, and it's uncomfortable.
 ### Insight
-If I choose to pay attention, I can name the feelings. It's a little work to begin to get insight into the unmet-need sense. It's harder to find the underlying longing, or to imagine what it would be like to have the treasure I'm longing for. 
+If I slow down and pay attention, I have ready access to what's happening inside me.
 ### Coping
-Almost any distraction easily makes the discomfort fade. If I think it'd be valuable, I can set the sadness or anxiety aside to look at later.
+I'm in alignment (the same on the inside as on the outside). I'm being authentic, and not needing to reach for coping strategies.
 ### Functioning
-It takes a little work to do professional activities: attending meetings, conversing, empathizing, problem solving, coding. It might take work not to be grumpy with family.
+I'm able to choose to put my attention to professional activities: attending meetings, conversing, empathizing, problem solving, coding. The sadness or anxiety can wait, and I can revisit it, and discover what needs are coming up later. I may find myself "faking it", less able to be in alignment (the same on the inside as I am  on the outside.)
 ### Openness
-I'm choosing distraction -- gettin shit done. I'm generally open to doing the work to move toward level 2, if it occurs to me or someone asks.  
+I might forget that I have options, or that I can do the work to move toward level 2. If I think of it, I can sit and breathe and get in touch with what's happening inside me.
 
 ## 4
 ### Awareness
 I'm feeling distinctly sad or anxious. "Not okay."
 ### Insight
-Paying attention to my experience is work. If I remember to, I might use a noticing exercise to get more insight.
+If I choose to pay attention, I can name the feelings. It's a little work to begin to get insight into the unmet-need sense. It's harder to find the underlying longing, or to imagine what it would be like to have the treasure I'm longing for. If I remember to, I might use a noticing exercise to get more insight.
 ### Coping
-I'm breathing, practicing self-empathy. Still turning my attention to profession & daily life, but distraction is less effective. Sometimes, I can set the sadness or anxiety aside to look at later.  
+I am beginning to use coping strategies. 
+Do I choose things that I worry damage me? (Using intoxication, sex, food, shopping, etc, in harmful ways?) Do I have ways to give myself comfort that are more nurturing than harmful? Do I reach for support from friends?
+I may take a break to breathe, practice self-empathy. Still turning my attention to profession & daily life. Sometimes, I can set the sadness or anxiety aside to look at later.  
 ### Functioning
 It's harder to do professional activities: attending meetings, conversing, empathizing, problem solving, coding. I may take breaks, try to avoid meetings. Or I may sit through them, hoping the distraction will help relieve discomfort.  Similarly, with personal life, I may try to avoid getting together or I might hope the distraction makes it easier. 
+It might take work not to be grumpy with family. I may find myself "faking it", less able to be in alignment (the same on the inside as I am  on the outside.)
 ### Openness
-I'm likely not looking for options; telling myself I don't have choices. If I remember, I might choose to do the work to move toward level 3 or level 2. (If there's a professional task ahead that's challenging and important, there's a good chance I can succeed at taking a half hour to work toward level 3 or 2 so I can do an okay job. I won't be at my best.)
+I may have forgotten about options, started telling myself I don't have choices. If I remember, I might choose to _do the work_ to move toward level 3 or level 2. 
 
 ## 5
 ### Awareness
 I'm feeling quite sad or anxious. I can feel it in my body. It's distracting, and probably clearly visible on my face & movements.
 ### Insight
-I'm reactive. I don't have much awareness of my internal state, but I react strongly to minor disruptions. 
+I'm reactive. I don't have much awareness of my internal state, but I react strongly to minor disruptions. I may be irritable or anxious for reasons I see as trivial.
 ### Coping
-Self-care here looks like "taking it easy" -- drawing, video games, reading, a warm bath. Distracting myself doesn't make sadness or anxiety fade out entirely. *Coping depends a lot on avoiding stress.* 
+Non-harmful coping choices seem more limited. I reach for what's easiest. *Coping depends a lot on avoiding stress.* 
 ### Functioning
-Things can seem normal. The differences is that I have an intolerance for tiny stresses (pen doesn't work, code does something unexpected, github acts weird, we're out of cheese, I dunno...) Strong feelings: tears, shaking, covering my ears. If work is solitary, I continue trying to accomplish things. If work means real engagement with people, at this point I leave quickly.
+Sometimes I feel "normal", then suddenly react to tiny stressors ("spilled milk"). Strong feelings come up: tears, shaking, covering my ears. If work is solitary, I may continue trying to accomplish things. If work means real engagement with people, it's much harder to continue. I may call in sick.
 ### Openness
-Self-care here feels like staying in the moment. Creating an environment as close to no stress as possible. Sometimes I might try what we jokingly call an "emergency sit", which could move me to a 4 or 3, but my priority isn't on fixing. It's on wrapping up in a blanket and accepting me where I'm at right now. And lots of care from loved ones.
+If I'm able to remember the importance of self-care, I'll prioritize staying in the moment, reducing stress (change, challenges, surprises) as much as possible. Sometimes I might try what we jokingly call an "emergency sit", which could move me to a 4 or 3, but my priority isn't on fixing. It's on wrapping up in a blanket and accepting me where I'm at right now. And lots of care from loved ones.
 
 ## 6
 ### Awareness
-Sadness or anxiety has my attention. 
+Sadness or anxiety has my nearly all my attention. 
 ### Insight
-Identifying or naming feelings in any subtle way is difficult. They feel unconnected with life. Wanting safety & comfort. 
+Identifying or naming feelings in any subtle way is difficult. Wanting safety & comfort. 
 ### Coping
-Delicate conversation on topics unrelated to my emotional state, only with people who feel safe and comfortable. Video games, movies, light reading.
+At this point, continuing to aim for non-harmful coping strategies, I'm taking care by doing things that feel nice. I might enjoy gentle conversation on topics unrelated to my emotional state, but only with people who feel safe and comfortable. Video games, movies, light reading.
 ### Functioning
-Nothing but self-care. 
+If I'm at work, I'm not getting much done. I'm likely to be at work because of fears around losing income and health insurance. 
 ### Openness
 Recognizing my feelings and the underlying needs/treasures is real work. I don't like any of the options I can see. I feel stuck. Questioning: remind me again why I'm supposed to stay alive?
 
 ## 7
 ### Awareness
-Just aware of hurting.
+Sadness or anxiety takes all my attention. I feel alone. I can't see the people who care about me.
 ### Insight
-Reaching for awareness of my experience isn't working very well.
+Self-empathy is out of reach. Maybe I'm so alone, I can't see _myself_.
 ### Coping
-Warm bath, walk. Staying close to people who are focused on caring for me.
+If I can, I'll remember kindness to myself. I'll work on connection with people who are focused on caring for me.
 ### Functioning
-Not much attention to even self-care. Not getting food. Not looking for comfort.
+Not able to work. Hard to remember to care for myself. Not getting food. Not looking for comfort.
 ### Openness
-Trying to remember that there are always options, but I don't really believe it. Wishing I could go to sleep and not wake up, but not actively suicidal.
+Trying to remember that there are always options, but I don't really believe it. 
 
 ## 8
 ### Awareness
-Just hurting. 
+Just hurting. Thoughts of worthlessness. (Maybe not new, but louder.) 
 ### Insight
-Not aware, not reaching for awareness. Not responding well. 
+I may be upset about "everything" or I may have no awareness of needs or treasures. 
 ### Coping
 Can't enjoy movies or reading or real games. Might play mindless phone games some.
 ### Functioning
 Mostly just breathe, cry some, breathe.
 ### Openness
-I don't see options. Probably thinking more seriously of suicide.
+I don't see options. I might find myself wishing I could go to sleep and not wake up, without being actively suicidal.
 
 ## 9
 ### Awareness
 Just hurting.
 ### Insight
-No awareness of needs or treasures.
+Not aware, not reaching for awareness. I've forgotten how to interrupt thoughts of my worthlessness. Might be believing them.
 ### Coping
-Basically lying in bed, or rocking back and forth. Roughly.
+Basically lying in bed, or rocking back and forth. Coping is being done by other people (checking on me, asking me about suicide, bringing food, asking how they can help).
 ### Functioning
 Breathe, cry, breathe.
 ### Openness
-I've forgotten the idea of possibility, of options. Avoiding suicide is work.
+I've forgotten the idea of possibility, of options. I may have begun wondering how I might actually make a plan for suicide.
 
 ## 10
 ### Awareness
@@ -118,7 +124,11 @@ No intentional coping.
 ### Functioning
 Zombie.
 ### Openness
-Can't find a way forward. Contemplating or planning suicide.  
+Can't find a way forward. I may be taking actions toward suicide.  
 
-The Mental and Emotional Self-Awareness Pain Scale v.1.1 is (c) Alex Harms 2017. 
-Free to use or adapt, with this notice included, under the following licence: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/) 
+---
+
+\* The Mental and Emotional Self-Awareness Pain Scale v 1.2, (c) 2017 Alex Harms. 
+Free to use or adapt, with this notice included, under the following licence: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+Please see the Not A Doctor disclaimer and other info at [the page on github](https://github.com/onealexharms/painscale)
