@@ -6,18 +6,19 @@
 
 3. Distraction easily makes it fade out.
 
-4. I have to work to distract myself from it.
+4. I can deliberately distract myself from it.
 
-5. Distracting myself doesn't make it gone entirely.  Can work (focus, code, problem solve), but greatly reduced capacity.
+5. I can't distract it away. But I can work (focus, code, problem solve), but not as well as I'd like.
 
-6. Can't focus on work. Pain has my attention. Can still do easy conversation, nothing intellectually challenging.
+6. I can't focus on work. Pain stays in my attention. I can have easy, gentle conversation, watch a show, play a simple phone game, doodle.
 
-7. Can't keep doing even something easy, like a phone game. Just breathe.
+7. I can't do even something easy, like doodling. Just breathe.
 
-8. Body is reacting: shaking, twitching. 
+8. There are external signs, like squirming or jiggling my leg, but I can stop them. 
 
-9. Can't be still. Sweating.
+9. Can't be still for long. Sweating, groaning.
 
-10. Yelling, shaking, thrashing, no control.
+10. Yelling, shaking, thrashing, can't "hold still" on request.
 
-(c) Alex Harms 2017. Free to use or adapt, with this notice included, under the following license: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/)
+v. 1.1
+(c) Alex Harms 2023. Free to use or adapt, with this notice included, under the following license: [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/)
